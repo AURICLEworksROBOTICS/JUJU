@@ -7,3 +7,10 @@ most of the juju files are in this repository
 
 we are planning to rebuild juju 
 
+
+
+
+
+
+
+juju will be upgraded
