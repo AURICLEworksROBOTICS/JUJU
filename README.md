@@ -18,7 +18,6 @@ we are planning to rebuild juju
 
 
 
-
 juju will be upgraded
 
 
