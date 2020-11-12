@@ -28,4 +28,4 @@ juju will be upgraded
 
 juju will have new features & also will be programmed ( coded ) 
 most of the files will be uploaded on this repository !
-this can be very benificial for our startup
+this can be very benificial for our startup.
