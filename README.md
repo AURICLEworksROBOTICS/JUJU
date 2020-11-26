@@ -11,7 +11,7 @@ juju's cad model is in this repository .
 most of the juju files are in this repository .
 
 
-We are planning to rebuild juju  !
+We are planning to rebuild juju   !
 
 
 
