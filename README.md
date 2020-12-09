@@ -17,7 +17,7 @@ We are planning to rebuild juju !
 
 
 
-juju will be upgraded  :-)
+juju will be upgraded :-)
 
 
 
